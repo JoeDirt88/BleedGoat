@@ -5,3 +5,4 @@ C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoa
 C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.csproj.CoreCompileInputs.cache
 C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.exe
 C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.pdb
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.csproj.SuggestedBindingRedirects.cache

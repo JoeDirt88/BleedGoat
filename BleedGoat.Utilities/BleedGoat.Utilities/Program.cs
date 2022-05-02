@@ -11,7 +11,7 @@ namespace BleedGoat.Utilities
         static void Main(string[] args)
         {
             const string shortString = "Hello there, I love you!";
-            const string paragraphString = "By keeping all these questions in our mind today we have come up with a new topic called “A Guide on Paragraph Writing”. With this guide, we’ll try to answer all these questions about paragraph writing. Paragraphs act as the main role in a student’s life. While writing any topic in an exam or competition needs paras to explain the concept in an understandable way for the readers. I think this is bullshit.";
+            const string paragraphString = "By keeping,all these questions in our mind today we have come up with a new topic called “A Guide on Paragraph Writing”. With this guide, we’ll try to answer all these questions about paragraph writing. Paragraphs act as the main role in a student’s life. While writing any topic in an exam or competition needs paras to explain the concept in an understandable way for the readers. I think this is bullshit.";
             Console.WriteLine("This is the original string:");
             Console.WriteLine(shortString);
 
@@ -32,6 +32,10 @@ namespace BleedGoat.Utilities
             //Console.Write($"The number of words in the paragraph:\n{paragraphString}\n\nis: ");
             //Console.WriteLine(paragraphString.[YourMethodNameHere]());
             //CUtils.Continue();
+
+            Console.Write($"The number of words in the paragraph:\n{paragraphString}\n\nis: ");
+            Console.WriteLine(paragraphString.CountWords());
+            CUtils.Continue();
 
             var lowercaseParagraph = paragraphString.ToLower();
             // Utility 2: [Hardcore Shit]

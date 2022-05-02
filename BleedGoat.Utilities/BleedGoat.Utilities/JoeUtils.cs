@@ -8,9 +8,9 @@ namespace BleedGoat.Utilities
 {
     public static class JoeUtils
     {
-        public static string MakeHearts(this string s, char c)
+        public static string MakeHearts(this string s, char c) //method
         {
-            return s.Replace(c.ToString(), "♥");
+            return s.Replace(c.ToString(), "♥");  //statement
         }
 
 
