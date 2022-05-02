@@ -1,0 +1,7 @@
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\bin\Debug\BleedGoat.Utilities.exe.config
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\bin\Debug\BleedGoat.Utilities.exe
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\bin\Debug\BleedGoat.Utilities.pdb
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.csproj.AssemblyReference.cache
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.exe
+C:\Projects\BleedGoat\BleedGoat.Utilities\BleedGoat.Utilities\obj\Debug\BleedGoat.Utilities.pdb
